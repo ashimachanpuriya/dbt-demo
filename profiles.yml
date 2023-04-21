@@ -1,0 +1,14 @@
+snowflake:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: de37821.ap-southeast-1
+      user: nikhil15
+      password: Htek@#1027
+      role: accountadmin
+      database: raw
+      warehouse: transforming
+      schema: shop
+      threads: 4
+      odbc_driver: SnowflakeDSIIDriver

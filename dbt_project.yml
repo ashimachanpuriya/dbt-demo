@@ -1,0 +1,4 @@
+version: 2.0
+config-version: 2
+name: shop
+profile: snowflake
